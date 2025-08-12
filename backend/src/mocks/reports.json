@@ -1,0 +1,359 @@
+{
+  "r-1755004431080": {
+    "id": "r-1755004431080",
+    "createdAt": "2025-08-12T13:13:51.080Z",
+    "details": {
+      "2025-08-01": {
+        "extraEntries": [
+          {
+            "start": "09:30",
+            "end": "10:00",
+            "minutes": 30
+          },
+          {
+            "start": "11:30",
+            "end": "12:30",
+            "minutes": 60
+          },
+          {
+            "start": "13:30",
+            "end": "14:00",
+            "minutes": 30
+          },
+          {
+            "start": "15:00",
+            "end": "17:30",
+            "minutes": 150
+          }
+        ],
+        "missingEntries": [
+          {
+            "start": "09:00",
+            "end": "09:30",
+            "minutes": 30
+          }
+        ],
+        "totalTimesheetMinutes": 420,
+        "totalCalendarMinutes": 180
+      },
+      "2025-08-02": {
+        "extraEntries": [
+          {
+            "start": "10:30",
+            "end": "11:00",
+            "minutes": 30
+          }
+        ],
+        "missingEntries": [],
+        "totalTimesheetMinutes": 120,
+        "totalCalendarMinutes": 90
+      }
+    }
+  },
+  "r-1755008477178": {
+    "id": "r-1755008477178",
+    "createdAt": "2025-08-12T14:21:17.178Z",
+    "details": {
+      "2025-08-01": {
+        "extraEntries": [
+          {
+            "start": "09:30",
+            "end": "10:00",
+            "minutes": 30
+          },
+          {
+            "start": "11:30",
+            "end": "12:30",
+            "minutes": 60
+          },
+          {
+            "start": "13:30",
+            "end": "14:00",
+            "minutes": 30
+          },
+          {
+            "start": "15:00",
+            "end": "17:30",
+            "minutes": 150
+          }
+        ],
+        "missingEntries": [
+          {
+            "start": "09:00",
+            "end": "09:30",
+            "minutes": 30
+          }
+        ],
+        "totalTimesheetMinutes": 420,
+        "totalCalendarMinutes": 180
+      },
+      "2025-08-02": {
+        "extraEntries": [
+          {
+            "start": "10:30",
+            "end": "11:00",
+            "minutes": 30
+          }
+        ],
+        "missingEntries": [],
+        "totalTimesheetMinutes": 120,
+        "totalCalendarMinutes": 90
+      }
+    }
+  },
+  "r-1755008845136": {
+    "id": "r-1755008845136",
+    "createdAt": "2025-08-12T14:27:25.136Z",
+    "details": {
+      "2025-08-01": {
+        "extraEntries": [
+          {
+            "start": "09:30",
+            "end": "10:00",
+            "minutes": 30
+          },
+          {
+            "start": "11:30",
+            "end": "12:30",
+            "minutes": 60
+          },
+          {
+            "start": "13:30",
+            "end": "14:00",
+            "minutes": 30
+          },
+          {
+            "start": "15:00",
+            "end": "17:30",
+            "minutes": 150
+          }
+        ],
+        "missingEntries": [
+          {
+            "start": "09:00",
+            "end": "09:30",
+            "minutes": 30
+          }
+        ],
+        "totalTimesheetMinutes": 420,
+        "totalCalendarMinutes": 180
+      },
+      "2025-08-02": {
+        "extraEntries": [
+          {
+            "start": "10:30",
+            "end": "11:00",
+            "minutes": 30
+          }
+        ],
+        "missingEntries": [],
+        "totalTimesheetMinutes": 120,
+        "totalCalendarMinutes": 90
+      }
+    }
+  },
+  "r-1755008881438": {
+    "id": "r-1755008881438",
+    "createdAt": "2025-08-12T14:28:01.438Z",
+    "details": {
+      "2025-08-01": {
+        "extraEntries": [
+          {
+            "start": "09:30",
+            "end": "10:00",
+            "minutes": 30
+          },
+          {
+            "start": "11:30",
+            "end": "12:30",
+            "minutes": 60
+          },
+          {
+            "start": "13:30",
+            "end": "14:00",
+            "minutes": 30
+          },
+          {
+            "start": "15:00",
+            "end": "17:30",
+            "minutes": 150
+          }
+        ],
+        "missingEntries": [
+          {
+            "start": "09:00",
+            "end": "09:30",
+            "minutes": 30
+          }
+        ],
+        "totalTimesheetMinutes": 420,
+        "totalCalendarMinutes": 180
+      },
+      "2025-08-02": {
+        "extraEntries": [
+          {
+            "start": "10:30",
+            "end": "11:00",
+            "minutes": 30
+          }
+        ],
+        "missingEntries": [],
+        "totalTimesheetMinutes": 120,
+        "totalCalendarMinutes": 90
+      }
+    }
+  },
+  "r-1755009100333": {
+    "id": "r-1755009100333",
+    "createdAt": "2025-08-12T14:31:40.333Z",
+    "details": {
+      "2025-08-01": {
+        "extraEntries": [
+          {
+            "start": "09:30",
+            "end": "10:00",
+            "minutes": 30
+          },
+          {
+            "start": "11:30",
+            "end": "12:30",
+            "minutes": 60
+          },
+          {
+            "start": "13:30",
+            "end": "14:00",
+            "minutes": 30
+          },
+          {
+            "start": "15:00",
+            "end": "17:30",
+            "minutes": 150
+          }
+        ],
+        "missingEntries": [
+          {
+            "start": "09:00",
+            "end": "09:30",
+            "minutes": 30
+          }
+        ],
+        "totalTimesheetMinutes": 420,
+        "totalCalendarMinutes": 180
+      },
+      "2025-08-02": {
+        "extraEntries": [
+          {
+            "start": "10:30",
+            "end": "11:00",
+            "minutes": 30
+          }
+        ],
+        "missingEntries": [],
+        "totalTimesheetMinutes": 120,
+        "totalCalendarMinutes": 90
+      }
+    }
+  },
+  "r-1755009724898": {
+    "id": "r-1755009724898",
+    "createdAt": "2025-08-12T14:42:04.898Z",
+    "details": {
+      "2025-08-01": {
+        "extraEntries": [
+          {
+            "start": "09:30",
+            "end": "10:00",
+            "minutes": 30
+          },
+          {
+            "start": "11:30",
+            "end": "12:30",
+            "minutes": 60
+          },
+          {
+            "start": "13:30",
+            "end": "14:00",
+            "minutes": 30
+          },
+          {
+            "start": "15:00",
+            "end": "17:30",
+            "minutes": 150
+          }
+        ],
+        "missingEntries": [
+          {
+            "start": "09:00",
+            "end": "09:30",
+            "minutes": 30
+          }
+        ],
+        "totalTimesheetMinutes": 420,
+        "totalCalendarMinutes": 180
+      },
+      "2025-08-02": {
+        "extraEntries": [
+          {
+            "start": "10:30",
+            "end": "11:00",
+            "minutes": 30
+          }
+        ],
+        "missingEntries": [],
+        "totalTimesheetMinutes": 120,
+        "totalCalendarMinutes": 90
+      }
+    }
+  },
+  "r-1755010330762": {
+    "id": "r-1755010330762",
+    "createdAt": "2025-08-12T14:52:10.762Z",
+    "details": {
+      "2025-08-01": {
+        "extraEntries": [
+          {
+            "start": "09:30",
+            "end": "10:00",
+            "minutes": 30
+          },
+          {
+            "start": "11:30",
+            "end": "12:30",
+            "minutes": 60
+          },
+          {
+            "start": "13:30",
+            "end": "14:00",
+            "minutes": 30
+          },
+          {
+            "start": "15:00",
+            "end": "17:30",
+            "minutes": 150
+          }
+        ],
+        "missingEntries": [
+          {
+            "start": "09:00",
+            "end": "09:30",
+            "minutes": 30
+          }
+        ],
+        "totalTimesheetMinutes": 420,
+        "totalCalendarMinutes": 180
+      },
+      "2025-08-02": {
+        "extraEntries": [
+          {
+            "start": "10:30",
+            "end": "11:00",
+            "minutes": 30
+          }
+        ],
+        "missingEntries": [],
+        "totalTimesheetMinutes": 120,
+        "totalCalendarMinutes": 90
+      }
+    }
+  }
+}

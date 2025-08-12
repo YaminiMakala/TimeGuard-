@@ -1,0 +1,10 @@
+{
+  "2025-08-01": [
+    { "id": "c1", "title": "Standup", "start": "09:00", "end": "09:30" },
+    { "id": "c2", "title": "Planning", "start": "10:00", "end": "11:30" },
+    { "id": "c3", "title": "Review", "start": "14:00", "end": "15:00" }
+  ],
+  "2025-08-02": [
+    { "id": "c4", "title": "Workshop", "start": "09:00", "end": "10:30" }
+  ]
+}
